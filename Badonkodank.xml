@@ -1,0 +1,450 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModList>
+	<Name>Badonkodank</Name>
+	<modIds>
+		<li>brrainz.harmony</li>
+		<li>ludeon.rimworld</li>
+		<li>ludeon.rimworld.royalty</li>
+		<li>jecrell.jecstools</li>
+		<li>erdelf.humanoidalienraces</li>
+		<li>gguake.apparelbodyresolver</li>
+		<li>fluffy.modmanager</li>
+		<li>ssulunge.bbbodysupport</li>
+		<li>ssulunge.bbbodyalienraces</li>
+		<li>ssulunge.bbbodyhuman</li>
+		<li>fluffy.fluffybreakdowns</li>
+		<li>dame.interestsframework</li>
+		<li>unlimitedhugs.hugslib</li>
+		<li>roolo.giddyupcore</li>
+		<li>roolo.giddyupcaravan</li>
+		<li>sarg.giddyupsaddles</li>
+		<li>dame.interests</li>
+		<li>roolo.giddyupbattlemounts</li>
+		<li>roolo.giddyuprideandroll</li>
+		<li>fridgebaron.immortals</li>
+		<li>jaxe.bubbles</li>
+		<li>jaxe.rimhud</li>
+		<li>kenshi.armory.geminingen</li>
+		<li>velc.hatsdisplayselection</li>
+		<li>nals.customportraits</li>
+		<li>sarg.alphabiomes</li>
+		<li>frozensnowfox.cannibaltraittweaks</li>
+		<li>void.charactereditor</li>
+		<li>oskarpotocki.vanillafactionsexpanded.core</li>
+		<li>newcolonist.largefactionbases</li>
+		<li>oblitus.mylittleplanet</li>
+		<li>saucypigeon.realisticplanets</li>
+		<li>zylle.mapdesigner</li>
+		<li>factioncontrol.kv.rw</li>
+		<li>moretraitslots.kv.rw</li>
+		<li>alias.degeneralizework</li>
+		<li>sierra.rtvtc</li>
+		<li>sarg.magicalmenagerie</li>
+		<li>uuugggg.smartmedicine</li>
+		<li>com.prostheticnomissingbodyparts.rimworld.mod</li>
+		<li>torann.arimworldofmagic</li>
+		<li>qratz.aromexpansioncore</li>
+		<li>com.bymarcin.architecticons</li>
+		<li>lbmaian.begonemessage</li>
+		<li>madeline.modmismatchformatter</li>
+		<li>falconne.bwm</li>
+		<li>vanya.tools.blightedalert</li>
+		<li>caesarv6.damageindicators</li>
+		<li>dubwise.dubsmintmenus</li>
+		<li>dubwise.dubsperformanceanalyzer</li>
+		<li>kosaro.fahrenheitandcelsius</li>
+		<li>telefonmast.graphicssettings</li>
+		<li>lirr.greenscreenfloor</li>
+		<li>swedishmask.originaldifficultynames</li>
+		<li>saucypigeon.pawnbadge</li>
+		<li>automatic.recipeicons</li>
+		<li>proxyer.optionalicons4ai</li>
+		<li>weilbyte.renamecolony</li>
+		<li>sandy.rpgstyleinventory</li>
+		<li>targhetti.showdrafteesweapon</li>
+		<li>gguake.ui.simplesearchbar</li>
+		<li>automatic.startupimpact</li>
+		<li>solaris.furniturebase</li>
+		<li>dalrae.gloomydeco</li>
+		<li>semo583.gloomyhextrahuhkitchen</li>
+		<li>zymex.gloomyvanillaoverhaul</li>
+		<li>gloomy.gloomyface</li>
+		<li>ahndemi.lwmdsforgfd</li>
+		<li>cattleya.productionreskin</li>
+		<li>carnysenpai.traitraritycolors</li>
+		<li>mattthewaz.weaponstab</li>
+		<li>co.uk.epicguru.whatsthatmod</li>
+		<li>odeum.wmbp</li>
+		<li>brrainz.achtung</li>
+		<li>unlimitedhugs.allowtool</li>
+		<li>fluffy.areaunlocker</li>
+		<li>razor2.3.anotherrimworldmod.autocutblight</li>
+		<li>co.uk.epicguru.bettertranshumanists</li>
+		<li>fluffy.blueprints</li>
+		<li>neceros.bulksmelting</li>
+		<li>fuglypump.bulkstonecutting</li>
+		<li>captainmuscles.callouts</li>
+		<li>aoba.tent</li>
+		<li>fluffy.colonymanager</li>
+		<li>brrainz.cameraplus</li>
+		<li>unlimitedhugs.defensivepositions</li>
+		<li>garwel.destroyitem</li>
+		<li>roolo.dualwield</li>
+		<li>merthsoft.designatorshapes</li>
+		<li>tikubonn.dontblockdoor</li>
+		<li>dracoix.doormat.r12a</li>
+		<li>ryflamer.misc.drawabead</li>
+		<li>uuugggg.everybodygetsone</li>
+		<li>captainmuscles.gotosleep</li>
+		<li>syrchalis.harvestyieldpatch</li>
+		<li>arandomkiwi.guardsforme</li>
+		<li>400.impassablehchestudeephwater</li>
+		<li>insertkey.itemlistselector</li>
+		<li>brrainz.justignoremepassing</li>
+		<li>neceros.lagfreelamps</li>
+		<li>ratys.madskills</li>
+		<li>pyrce.mass.graves</li>
+		<li>leafzxg.masterofcooking</li>
+		<li>maarx.meditateasworktype</li>
+		<li>neceros.metaldontburn</li>
+		<li>doug.nojobauthors</li>
+		<li>bar0th.norandomrelations</li>
+		<li>ogre.ogrestack</li>
+		<li>brucethemoose.optimizationmeats</li>
+		<li>fed1splay.pawntargetfix</li>
+		<li>wtfomgjohnny.perishable</li>
+		<li>mlie.pickupandhaul</li>
+		<li>ogliss.thewhitecrayon.quarry</li>
+		<li>dninemfive.qualitycooldown</li>
+		<li>vanillaexpanded.vcef</li>
+		<li>vanillaexpanded.vcooke</li>
+		<li>argon.saltedmeat</li>
+		<li>hatti.qualitybuilder</li>
+		<li>mlie.simplymorebridges</li>
+		<li>mlie.realistichumansounds</li>
+		<li>uuugggg.replacestuff</li>
+		<li>lwm.deepstorage</li>
+		<li>arandomkiwi.rimsaves</li>
+		<li>uuugggg.roomfood</li>
+		<li>roolo.runandgun</li>
+		<li>roolo.searchanddestroy</li>
+		<li>syrchalis.setupcamp</li>
+		<li>sf.grim.reality</li>
+		<li>syrchalis.universalfermenter</li>
+		<li>uuugggg.sharetheload</li>
+		<li>hatti.cleaningarea</li>
+		<li>petetimessix.simplesidearms</li>
+		<li>sarg.smartspeed</li>
+		<li>dhultgren.smarterconstruction</li>
+		<li>legodude17.smartdecon</li>
+		<li>weilbyte.snapout</li>
+		<li>marvinkosh.ughyougotme</li>
+		<li>linkolas.stabilize</li>
+		<li>balistafreak.stopdropandroll</li>
+		<li>uuugggg.tdpack</li>
+		<li>vanillaexpanded.vfesecurity</li>
+		<li>frozensnowfox.nodefaultshelfstorage</li>
+		<li>vanillaexpanded.vwe</li>
+		<li>grimm.unlimited</li>
+		<li>tammybee.whereismyweapon</li>
+		<li>syrchalis.doormats</li>
+		<li>aoba.fortress.neolithic</li>
+		<li>wofl.morefurnitureupdated</li>
+		<li>tammybee.statueofcolonist</li>
+		<li>vanillaexpanded.vappe</li>
+		<li>vanillaexpanded.varme</li>
+		<li>nilchei.dynamicdiplomacy</li>
+		<li>drzhivago.docworld</li>
+		<li>frozensnowfox.complexjobs</li>
+		<li>onyxae.dragonsdescent</li>
+		<li>sineswiper.factionblender</li>
+		<li>ravvy.dd.void.addon</li>
+		<li>revolus.whatsmissing</li>
+		<li>saakra.empire</li>
+		<li>madarauchiha.prisonersneedrecruiting</li>
+		<li>nals.facialanimation</li>
+		<li>daemon976.facialanimationplus</li>
+		<li>notfood.researchpal</li>
+		<li>anbulbay.kurinfixer</li>
+		<li>dalrae.garamraceaddon</li>
+		<li>eiten.xangelracesgaram</li>
+		<li>rwmre.xangelracesgaram</li>
+		<li>spankyh.bunrace.core</li>
+		<li>mlie.morefactioninteraction</li>
+		<li>ssulunge.kijinrace2</li>
+		<li>gloomylynx.dragonianrace</li>
+		<li>qratz.aromexpansionmelees</li>
+		<li>babies.and.children.continued</li>
+		<li>oskarpotocki.vfe.insectoid</li>
+		<li>dalrae.garamadvancedapparel</li>
+		<li>unon.noburnmetal</li>
+		<li>dalrae.kurinthethreetailedfox</li>
+		<li>goudaquiche.moharframework</li>
+		<li>ayameduki.harneclose</li>
+		<li>toyama.neclose</li>
+		<li>morishep.tarojun.onioftherim</li>
+		<li>tachyonite.pawnmorpherpublic</li>
+		<li>tory.pawnmorpher.demuzzled</li>
+		<li>tachyonite.pawnmorpher.insects</li>
+		<li>pigeon.texture.finder</li>
+		<li>extracting.organs</li>
+		<li>berryragepyre.prisonerrecreation</li>
+		<li>mlie.xndprofitableweapons</li>
+		<li>qratz.aromexpansionstriders</li>
+		<li>mlie.prisonerarena</li>
+		<li>kongmd.qee</li>
+		<li>ahndemi.racesleepfaceaddon</li>
+		<li>com.yayo.racequestpawn</li>
+		<li>kamikoto00.rimofmadness.vampires</li>
+		<li>mlie.rimofmadnesswerewolves</li>
+		<li>rimsenal.hair</li>
+		<li>sierra.rtmt</li>
+		<li>pinochemicali.skilledstonecutting</li>
+		<li>vanya.outsource.automechnekotest</li>
+		<li>mlie.swords</li>
+		<li>hc.giantrace</li>
+		<li>anonymous189.1v2</li>
+		<li>crioware840.awoolf</li>
+		<li>dimonsever000.rimcore.specific</li>
+		<li>dimonsever000.psionicplus.specific</li>
+		<li>dubwise.rimatomics</li>
+		<li>dubwise.rimefeller</li>
+		<li>mlie.rimperion</li>
+		<li>rimsenal.core</li>
+		<li>rimsenal.evp</li>
+		<li>rimsenal.federation</li>
+		<li>sineswiper.xenobionicpatcher</li>
+		<li>mlie.rimwriter</li>
+		<li>kentington.saveourship2</li>
+		<li>hlx.ultratechalteredcarbon</li>
+		<li>paradies.resurrectorserumonrotten</li>
+		<li>ghxx.techadvancing</li>
+		<li>albion.xenohumans</li>
+		<li>vanillaexpanded.vwec</li>
+		<li>hlx.ultratechalteredcarbonarmoury</li>
+		<li>dninemfive.d9framework</li>
+	</modIds>
+	<modNames>
+		<li>Harmony</li>
+		<li>Core</li>
+		<li>Royalty</li>
+		<li>JecsTools (Unofficial)</li>
+		<li>Humanoid Alien Races 2.0</li>
+		<li>Apparel BodyType Resolver</li>
+		<li>Mod Manager</li>
+		<li>FemaleBB BodyType Support</li>
+		<li>FemaleBB BodyType for Alien Races </li>
+		<li>FemaleBB BodyType for Human</li>
+		<li>Fluffy Breakdowns</li>
+		<li>[D] Interests Framework</li>
+		<li>HugsLib</li>
+		<li>Giddy-up! Core</li>
+		<li>Giddy-up! Caravan</li>
+		<li>Giddy-Up! Add-on: Animal Saddles</li>
+		<li>[D] Interests</li>
+		<li>Giddy-up! Battle Mounts</li>
+		<li>Giddy-up! Ride and Roll</li>
+		<li>Immortals</li>
+		<li>Interaction Bubbles</li>
+		<li>RimHUD</li>
+		<li>Kenshi Armory</li>
+		<li>Hats Display Selection</li>
+		<li>[NL] Custom Portraits</li>
+		<li>Alpha Biomes</li>
+		<li>[FSF] Cannibal Trait Tweaks</li>
+		<li>Character Editor</li>
+		<li>Vanilla Expanded Framework</li>
+		<li>Large Faction Bases</li>
+		<li>My Little Planet</li>
+		<li>Realistic Planets - Fan Update</li>
+		<li>Map Designer</li>
+		<li>[KV] Faction Control</li>
+		<li>[KV] More Trait Slots</li>
+		<li>De-generalize Work</li>
+		<li>RimTraits - Vanilla Trait Colours</li>
+		<li>Magical Menagerie</li>
+		<li>Smart Medicine</li>
+		<li>Prosthetic No Missing Body Parts</li>
+		<li>A RimWorld of Magic</li>
+		<li>CORE -  a Rimworld of Magic Factions Expansion</li>
+		<li>Architect Icons</li>
+		<li>Begone, Message!</li>
+		<li>Better ModMismatch Window</li>
+		<li>Better Workbench Management</li>
+		<li>Blighted Alert</li>
+		<li>Damage Indicators [1.2]</li>
+		<li>Dubs Mint Menus</li>
+		<li>Dubs Performance Analyzer</li>
+		<li>Fahrenheit and Celsius</li>
+		<li>Graphics Settings+</li>
+		<li>Green(screen) Floor</li>
+		<li>Original Difficulty Names</li>
+		<li>Pawn Badge Fan Fork</li>
+		<li>Recipe icons</li>
+		<li>Optional Icons for Architect Icons</li>
+		<li>RenameColony</li>
+		<li>RPG Style Inventory</li>
+		<li>Show Draftees Weapon</li>
+		<li>Simple Search Bar</li>
+		<li>Startup impact</li>
+		<li>GloomyFurniture</li>
+		<li>Gloomy Deco</li>
+		<li>Gloomy Extra - Kitchen</li>
+		<li>Gloomy Vanilla Overhaul</li>
+		<li>gloomy_face</li>
+		<li>LWM DS for Gloomy Furniture and Deco</li>
+		<li>Production reskin</li>
+		<li>Trait Rarity Colors</li>
+		<li>WeaponsTab</li>
+		<li>What's That Mod</li>
+		<li>World Map Beautification Project</li>
+		<li>Achtung!</li>
+		<li>Allow Tool</li>
+		<li>Area Unlocker</li>
+		<li>Auto-Cut Blight</li>
+		<li>Better Transhumanists</li>
+		<li>Blueprints</li>
+		<li>Bulk Smelting</li>
+		<li>Bulk Stonecutting</li>
+		<li>Callouts</li>
+		<li>Camping Tent</li>
+		<li>Colony Manager</li>
+		<li>Camera+</li>
+		<li>Defensive Positions</li>
+		<li>Destroy Item</li>
+		<li>Dual Wield</li>
+		<li>Designator Shapes</li>
+		<li>DontBlockDoor[1.0-1.2]</li>
+		<li>Door Mat</li>
+		<li>[Ry]Draw a bead</li>
+		<li>Everybody Gets One</li>
+		<li>Go the F*** to Sleep</li>
+		<li>[SYR] Harvest Yield</li>
+		<li>Guards For Me</li>
+		<li>Impassable Chest-deep Water</li>
+		<li>ItemListSelector</li>
+		<li>Just Ignore Me Passing</li>
+		<li>Lag Free Lamps</li>
+		<li>Mad Skills</li>
+		<li>Mass Graves</li>
+		<li>Master of Cooking</li>
+		<li>MeditateAsWorkType</li>
+		<li>Metal Don't Burn</li>
+		<li>No Job Authors</li>
+		<li>No Random Relations</li>
+		<li>OgreStack</li>
+		<li>Optimization: Meats (1.2)</li>
+		<li>PawnTargetFix</li>
+		<li>Perishable</li>
+		<li>Pick Up And Haul (Continued)</li>
+		<li>Quarry 1.1</li>
+		<li>Quality Cooldown</li>
+		<li>Vanilla Fishing Expanded</li>
+		<li>Vanilla Cooking Expanded</li>
+		<li>Salted Meat</li>
+		<li>QualityBuilder</li>
+		<li>Simply More Bridges (Continued)</li>
+		<li>Realistic Human Sounds (Continued)</li>
+		<li>Replace Stuff</li>
+		<li>LWM's Deep Storage</li>
+		<li>RimSaves</li>
+		<li>Room Food</li>
+		<li>RunAndGun</li>
+		<li>Search and Destroy</li>
+		<li>[SYR] Set Up Camp</li>
+		<li>SF Grim Reality</li>
+		<li>[SYR] Universal Fermenter</li>
+		<li>Share The Load</li>
+		<li>CleaningArea</li>
+		<li>Simple sidearms</li>
+		<li>Smart Speed</li>
+		<li>Smarter Construction</li>
+		<li>Smarter Deconstruction</li>
+		<li>Snap Out!</li>
+		<li>Ugh You Got Me</li>
+		<li>Stabilize</li>
+		<li>Stop, Drop, And Roll! [BAL]</li>
+		<li>TD Enhancement Pack</li>
+		<li>Vanilla Furniture Expanded - Security</li>
+		<li>[FSF] No Default Shelf Storage</li>
+		<li>Vanilla Weapons Expanded</li>
+		<li>Un-Limited</li>
+		<li>Where is my weapon?</li>
+		<li>[SYR] Doormats</li>
+		<li>Fortifications - Neolithic</li>
+		<li>More Furniture [1.1 + 1.2]</li>
+		<li>Statue of Colonist</li>
+		<li>Vanilla Apparel Expanded</li>
+		<li>Vanilla Armour Expanded</li>
+		<li>Dynamic Diplomacy</li>
+		<li>DocWorld</li>
+		<li>[FSF] Complex Jobs</li>
+		<li>Dragon's Descent</li>
+		<li>Faction Blender</li>
+		<li>[RWY]Dragon's Descent: Void Dwellers</li>
+		<li>What's Missing?</li>
+		<li>Empire</li>
+		<li>Prisoners Need Recruiting</li>
+		<li>[NL] Facial Animation - WIP</li>
+		<li>Nals Facial Animation for HAR</li>
+		<li>ResearchPal</li>
+		<li>Kurin Fixer</li>
+		<li>Garam, Race Addon</li>
+		<li>Eiten's Add New Race Mod Faller.  For Garam</li>
+		<li>Eiten's Add New Race Mod Faller.  For Garam (ENG)</li>
+		<li>Bun Race</li>
+		<li>More Faction Interaction (Continued)</li>
+		<li>Kijin Race 2.0</li>
+		<li>Dragonian Race</li>
+		<li>Monks and Fighters -  a Rimworld of Magic factions expansion</li>
+		<li>Babies and Children</li>
+		<li>Vanilla Factions Expanded - Insectoids</li>
+		<li>Garam, Advanced Apparel</li>
+		<li>No Burn Metal</li>
+		<li>Kurin, The Three Tailed Fox</li>
+		<li>MoHAR framework</li>
+		<li>[1.2]Neclose Race</li>
+		<li>[1.2]Neclose Race (English translation)</li>
+		<li>Oni of the Rim</li>
+		<li>Pawnmorpher</li>
+		<li>Pawnmorpher Demuzzled</li>
+		<li>Pawnmorpher: Insectoids</li>
+		<li>PIGEON's Texture Finder</li>
+		<li>Prisoner Harvesting</li>
+		<li>Prisoner Recreation</li>
+		<li>[XND] Profitable Weapons (Continued)</li>
+		<li>Striders -  a Rimworld of Magic factions expansion</li>
+		<li>Prisoner Arena (Continued)</li>
+		<li>Questionable Ethics Enhanced</li>
+		<li>Race sleep face addon</li>
+		<li>Real Faction Guest</li>
+		<li>Rim of Madness - Vampires</li>
+		<li>Rim of Madness - Werewolves (Continued)</li>
+		<li>Rimsenal - Rimhair</li>
+		<li>RimTraits - Medieval Talents</li>
+		<li>Skilled Stonecutting</li>
+		<li>[SZ]Super Mechneko - 超级机械猫娘</li>
+		<li>Swords (Continued)</li>
+		<li>The GiantRace</li>
+		<li>1.2</li>
+		<li>Awoolf</li>
+		<li>RimCore</li>
+		<li>Psionic+</li>
+		<li>Rimatomics</li>
+		<li>Rimefeller</li>
+		<li>Rimperion (Continued)</li>
+		<li>Rimsenal - Core</li>
+		<li>Rimsenal - Enhanced Vanilla Pack</li>
+		<li>Rimsenal - Federation Faction Pack</li>
+		<li>Xenobionic Patcher</li>
+		<li>RimWriter - Books, Scrolls, Tablets, and Libraries (Continued)</li>
+		<li>Save Our Ship 2</li>
+		<li>[HLX] Ultratech: Altered Carbon</li>
+		<li>Use Resurrector Mech Serum On Rotten or Skeleton People</li>
+		<li>Tech Advancing</li>
+		<li>Xenohumans - Gen-spliced Xenos on the Rim</li>
+		<li>Vanilla Weapons Expanded - Coilguns</li>
+		<li>[HLX] Ultratech: Altered Carbon - Armoury</li>
+		<li>D9 Framework</li>
+	</modNames>
+</ModList>
